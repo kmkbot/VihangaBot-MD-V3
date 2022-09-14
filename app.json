@@ -128,13 +128,13 @@
 "GROUP_LINK" :{
     "description" : "TYPE GROUP LINK",
     "required" : true,
-  "value" : "......."
+  "value" : "fals"
 },
       
   "GROUP_LINK2" :{
     "description" : "TYPE GROUP LINK 2",
     "required" : true,
-  "value" : "........"
+  "value" : "fals"
 },
     
 "PACK_NAME" :{
@@ -158,7 +158,7 @@
   "YT_URL" :{
     "description" : "IF U HAVE YT CHANNEL TYPE URL",
     "required" : true,
-    "value" :"........"
+    "value" :"fals"
     }
     },
   
